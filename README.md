@@ -1,3 +1,5 @@
+# Predicting football matches score and results using ML
+
 This project  is aimed at creating a prediction model that can determine home team goals, away team goals and result of a football matches.
 
 Linear regression and polynomial regression ,models are employed in an attempt to predict home and away team goals
